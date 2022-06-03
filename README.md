@@ -3,7 +3,7 @@
 
 *Name of your app* shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: *X* hours spent in total
+Time spent: 20 hours
 
 ## User Stories
 
