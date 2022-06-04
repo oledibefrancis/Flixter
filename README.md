@@ -31,7 +31,7 @@ The following *additional* features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://submissions.us-east-1.linodeobjects.com/metau_android/59S9xIBJ.gif" width=250><br> 
+<img src="[https://submissions.us-east-1.linodeobjects.com/metau_android/59S9xIBJ.gif](https://github.com/oledibefrancis/Flixter/blob/master/ezgif.com-gif-maker.gif)" width=250><br> 
 
 
 
