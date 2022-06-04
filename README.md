@@ -31,7 +31,7 @@ The following *additional* features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="[https://submissions.us-east-1.linodeobjects.com/metau_android/59S9xIBJ.gif](https://github.com/oledibefrancis/Flixter/blob/master/ezgif.com-gif-maker.gif)" <br> 
+<img src='[https://github.com/martinsufiofb/FBUFlixster/blob/main/ezgif.com-gif-maker.gif](https://github.com/oledibefrancis/Flixter/blob/master/ezgif.com-gif-maker.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
