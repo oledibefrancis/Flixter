@@ -3,7 +3,7 @@
 
 **Name of your app** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **X** hours spent in total
+Time spent: 20 hours spent in total
 
 ## User Stories
 
@@ -34,11 +34,10 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/oledibefrancis/Flixter/blob/master/ezgif.com-gif-maker%20(1).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with [Kap](https://getkap.co/).
 
-## Notes
 
-Describe any challenges encountered while building the app.
+
+
 
 ## Open-source libraries used
 
@@ -47,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Francis Oledibe]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
