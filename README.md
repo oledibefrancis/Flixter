@@ -1,7 +1,7 @@
 
-# Project 1 - *Flixter FBU*
+# Project 1 - *Flixter App*
 
-**Name of your app** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+**Flixter** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
 Time spent: 20 hours spent in total
 
