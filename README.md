@@ -36,6 +36,10 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://imgur.com/a/igAXIkF.gif
+
+
+
 
 
 
