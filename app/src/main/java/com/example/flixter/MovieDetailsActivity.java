@@ -44,8 +44,10 @@ public class MovieDetailsActivity extends AppCompatActivity {
         float voteAverage = movie.getVoteAverage().floatValue();
         rbVoteAverage.setRating(voteAverage / 2.0f);
 
-        Glide.with(this).load(movie.getBackdropPath())
-                .placeholder(R.drawable.flicks_backdrop_placeholder).into(details);
+        Glide.with(this)
+                .load(movie.getBackdropPath())
+                .placeholder(R.drawable.flicks_backdrop_placeholder)
+                .into(details);
 
 
     }

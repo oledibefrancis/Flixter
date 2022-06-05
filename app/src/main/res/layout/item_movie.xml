@@ -24,7 +24,7 @@
         android:layout_toEndOf="@+id/ivPoster"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         tools:layout_marginStart="5dp"
-        tools:text="Fast and Furious Presents: Hobbs and Shaw" />
+        tools:text="@string/iteMovieText" />
 
     <TextView
         android:id="@+id/tvOverview"
